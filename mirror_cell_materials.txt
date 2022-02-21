@@ -1,0 +1,26 @@
+#, Description
+========================================================
+2, 0.25" by 1.25" steel flat stock for tailgate side rails
+3, 1" by 1" steel tubing for tailgate rungs (heavy wall preferably)
+6, 0.125" thick steel triangles
+3, 0.25" thick steel bars for supporting triangles
+18, floor protector pads, ~0.25" thick, relatively compressable
+6, 8-32 x 0.75" pan head screws
+18, 8-32 nuts for pan head screws
+9, 3/4-16 all metal lock nuts - two per bar of 18 point cell plus one above each mirror clip
+3, 3/8-16 x 2.5" leveling jacks or collimation bolts. weld a flat washer to a hex bolt
+2, 3/8-16 x 4" hex-head bolts, fully threaded and split to hold sling
+3, 3/8-16 x 5.5" hex head bolts, must be fully threaded for side pins
+3, Eyebolts to serve as mirror clips, eye must be 3/8" diameter inside. Obtain from turnbuckles
+9, 3/8" lock washers to put above side pins, and above+below mirror clips
+8, 3/8-16 nuts, one to retain each split bolt, one to retain each side pin bolt, and one at top of each side pin
+8, 7/16" "washers (should have actual ID size of half inch), one for each split bolt, the rest for the side pins
+4, 1-inch #10 sheet metal screws to mount fan on fan board
+4, 8-32 x 1/4" round-head screws to mount fan board on tailgate rungs
+3, short lengths of shrink wrap for mirror clip
+1, 1.5" nylon strapping or seat belt from car
+3, 1-inch OD 3-inch long PVC dowels for side pins (wood ok)
+1, double sided tape?
+1, .25" thick plywood or plastic fan mounting board
+1, 12 volt muffin fan
+
